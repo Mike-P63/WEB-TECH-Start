@@ -5,16 +5,22 @@ html {
 
 
 h1 {
-  font-size: 80px;
+  font-size: 60px;
   text-align: center;
 }
 
-p, li {
+p {
   font-size: 36px;
   line-height: 2;
   letter-spacing: 1px;
+  text-align: center;
 }
-
+li {
+  font-size: 36px;
+  line-height: 2;
+  letter-spacing: 1px;
+  
+}
 
 html {
   background-color: #6b9881;
@@ -25,7 +31,7 @@ body {
   margin: 0 auto;
   background-color: #FF9500;
   padding: 0 20px 20px 20px;
-  border: 8px solid black;
+  border: 10px solid black;
 }
 
 h1 {
