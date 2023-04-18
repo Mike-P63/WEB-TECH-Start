@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(208, 142, 142);
+}
+
+h1 {
+    color: blueviolet;
+}
+
+a {
+    color: bisque;
+}
+
+img {
+    width: 500px;
+    margin-left: 30;
+}
+
+.big_text{
+    font-size: 2rem;
+}
+
