@@ -1,6 +1,6 @@
 
-function Greeting() {
-    alert(`Привет, ${Name}!`);
+function greeting(str) {
+    return(`Привет, ${str}!`);
 }
-let Name = prompt("Как Вас зовут?");
-Greeting(Name);
+const user = prompt("Как Вас зовут?");
+alert(greeting(user));
